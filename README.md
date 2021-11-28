@@ -29,7 +29,7 @@ Bu ipuçları ve zorluklar, kapıları ve sandıkları açabilen anahtar türler
 - Kırmızı.
 
 Bir sonraki odaya geçmek için, mevcut odanın kapı anahtarını bulman gerekiyor.
-> Canavar kediler de anahtar düşürebilir. Pek kedi sevmem, British haricinde.
+> Canavar kediler de anahtar düşürebilir.
 
 ## Komutlar
 
