@@ -25,7 +25,7 @@ fun openUrl() {
     try {
         println("Redirects in 10 seconds. If the site does not open, go to github.com/kaanf/party-runner-cli")
         val desktop = Desktop.getDesktop()
-        val oURL = URI("http://www.github.com/kaanf/maze-cli-game")
+        val oURL = URI("http://www.github.com/kaanf/party-runner-cli")
         desktop.browse(oURL)
         main()
     } catch (e: Exception) {
